@@ -1,0 +1,17 @@
+C:\Users\outoo\source\repos\notebad\notebad\bin\Release\notebad.exe.config
+C:\Users\outoo\source\repos\notebad\notebad\bin\Release\notebad.exe
+C:\Users\outoo\source\repos\notebad\notebad\bin\Release\notebad.pdb
+C:\Users\outoo\source\repos\notebad\notebad\obj\Release\notebad.csprojAssemblyReference.cache
+C:\Users\outoo\source\repos\notebad\notebad\obj\Release\MainWindow.g.cs
+C:\Users\outoo\source\repos\notebad\notebad\obj\Release\settingsWindow.g.cs
+C:\Users\outoo\source\repos\notebad\notebad\obj\Release\App.g.cs
+C:\Users\outoo\source\repos\notebad\notebad\obj\Release\notebad_MarkupCompile.cache
+C:\Users\outoo\source\repos\notebad\notebad\obj\Release\notebad_MarkupCompile.lref
+C:\Users\outoo\source\repos\notebad\notebad\obj\Release\MainWindow.baml
+C:\Users\outoo\source\repos\notebad\notebad\obj\Release\settingsWindow.baml
+C:\Users\outoo\source\repos\notebad\notebad\obj\Release\notebad.g.resources
+C:\Users\outoo\source\repos\notebad\notebad\obj\Release\notebad.Properties.Resources.resources
+C:\Users\outoo\source\repos\notebad\notebad\obj\Release\notebad.csproj.GenerateResource.cache
+C:\Users\outoo\source\repos\notebad\notebad\obj\Release\notebad.csproj.CoreCompileInputs.cache
+C:\Users\outoo\source\repos\notebad\notebad\obj\Release\notebad.exe
+C:\Users\outoo\source\repos\notebad\notebad\obj\Release\notebad.pdb
